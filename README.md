@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm KaizukiZero <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate about develop web application from thailand</h3>
 
-- 🔭 I’m currently working on my **PHP*
+- 🔭 I’m currently working on my **PHP**
 
-- 🌱 I’m currently learning **React.js, HTML5 and CSS3**
+- 🌱 I’m currently learning **Laravel 8,React.js, HTML5 and CSS3**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
