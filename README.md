@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my **PHP**
 
-- 🌱 I’m currently learning **Laravel 8,React.js, HTML5 and CSS3**
+- 🌱 I’m currently learning **Laravel ,React.js, HTML5 and CSS3**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
