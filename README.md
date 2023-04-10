@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KaizukiZero <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate about develop web application from thailand</h3>
+<h3 align="center">A passionate about System and Information Technology</h3>
 
 - 🔭 I’m currently working on my **PHP**
 
